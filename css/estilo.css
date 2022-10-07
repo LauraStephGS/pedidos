@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.imagem__fundo{
+    
+    background-image:url(../assets/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.card{
+    width: 450px;
+    border-radius: 16px;
+    overflow: hidden;
+   
+    
+}
+.card__musica{
+    background-image: url(../assets/musica.png);
+    height: 197px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card__conteudo{
+    background-color: #FFFFFF;
+    padding: 16px 40px;
+    text-align: center;
+   
+}
+.card__conteudo h2{
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+    font-size: 32px;
+    color: #42424E;
+}
+.card__conteudo p{
+    font-family: 'Red Hat Display';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+}
+.card__icone{
+    background-color: #F9F9F9;
+    margin: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    padding: 12px;
+    border-radius: 8px;
+}
+.card__icone__texto{
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+}
+.card__icone__texto h4{
+
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+
+}
+
+.card__icone__texto span{
+    font-family: 'Red Hat Display';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+
+.botao a{
+
+    background-color: #1E1FCD;
+    color: #FFFFFF;
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    display: block;
+    align-items: center;
+    text-decoration: none;
+    padding-block: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+
+}
+.pagamento .cancelar{
+
+    
+    
+    
+
+}
+.cancelar{
+  
+
+
+ }
+
+
+
+
+    
+   
+
+
+img{
+    
+}
+section{
+   
+
+}
